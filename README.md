@@ -4,5 +4,9 @@
 образование: Хогвардс  
 специальность: Драконолог  
 
+commit ef58451dcc7f6ee2e0a5ac42efe5c06e4f15d969 (HEAD -> develop)  
+iDate:   Wed Nov 2 16:19:44 2022 +0300  
+
+
 
 
